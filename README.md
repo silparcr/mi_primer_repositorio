@@ -8,3 +8,6 @@ Contenido de prueba
 Estamos probando un commit en local
 
 Estamos probando otro commit en local
+
+# Commit2
+Estamos probando un commit en remoto
