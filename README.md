@@ -7,5 +7,4 @@ Contenido de prueba
 # Commit
 Estamos probando un commit en local
 
-# Commit1
 Estamos probando otro commit en local
