@@ -9,3 +9,6 @@ Estamos probando un commit en local
 
 # Commit1
 Estamos probando otro commit en local
+
+# Commit2
+Estamos probando un commit en remoto
